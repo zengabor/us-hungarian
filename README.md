@@ -1,6 +1,8 @@
 # US Hungarian keyboard layout
 
-This is a special keyboard layout for macOS (tested up to macOS 15.5 as of now). It’s basically a US keyboard layout that’s perfect for programming and for application shortcuts. But here’s the cool part: when you activate Caps Lock, you’ll see Hungarian accented characters appear in the right places. (The only downside is that some important symbols might be temporarily unavailable while in this mode, but hey, this is the price!)
+This is a special keyboard layout for macOS (tested up to macOS 15.5 as of now). I’ve been using it for the past couple of decades, and it has served me well.
+
+It’s basically a US keyboard layout that’s perfect for programming and for application shortcuts. But here’s the cool part: when you activate Caps Lock, you’ll see Hungarian accented characters appear in the right places. (The only downside is that some important symbols might be temporarily unavailable while in this mode, but hey, this is the price!)
 
 Feel free to use [Ukulele] and customize the keyboard layout to suit your preferences!
 
